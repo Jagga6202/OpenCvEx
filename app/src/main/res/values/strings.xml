@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OpenCvTut</string>
+    <string name="saveListTxt">Save Template</string>
+    <string name="loadListTxt">Load Template</string>
+    <string name="getFrameTxt">Select Frame</string>
+    <string name="getRegionTxt">Select Region</string>
+    <string name="clearTxt">Clear</string>
+    <string name="backTxt">Finish</string>
+    <string name="coordTxt">P1 = [0, 0]\nP2 = [0, 0]</string>
+    <string name="helpTxt1">Please select a corner of the region</string>
+    <string name="helpTxt2">Please select the opposite corner of the region</string>
+    <string name="helpTxt3">Press finish to go back. Press clear to set a new region.</string>
+    <string name="templateTxt">No template loaded</string>
+    <string name="matchTxt">Matching: ON</string>
+    <string name="frameskipTxt">Frameskip</string>
+    <string name="skipvalueTxt">Frameskip: None</string>
+</resources>
